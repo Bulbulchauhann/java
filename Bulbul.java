@@ -21,7 +21,8 @@ public class Bulbul {
         //  boolean a = true;
         //  boolean b = false;
 
-        String  a = "BULBUL IS GREAT";
+        String  a = "Hello World";
+        String b = "Hello Darling";
         System.out.println(a);
         // System.out.println(b);
     }
